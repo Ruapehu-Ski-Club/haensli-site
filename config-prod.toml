@@ -1,0 +1,5 @@
+theme = "massively" 
+languageCode = "en-us"
+title = "Haensli Cup"
+baseURL = "http://localhost:1075/"
+googleanalytics = "G-TF7T8JZMDM"

@@ -9,7 +9,7 @@ image: "https://www.rsc.org.nz/static/haensli2021/haensli2021spon.JPG"
 We were lucky to get to hold the 2021 Haensli Cup the weekend before New Zealand went into lockdown!
 
 It was a great event, you can check the pictures out on the [RSC Facebook page](https://www.facebook.com/groups/RuapehuSkiClub).
-A huge thanks to our Club Captain Catherine Gafa and everyone helping her leading up to the race, helpers on the day, and of course you, our members who made it such a success!
+A huge thanks to RSC Club Captain Catherine Gafa and everyone helping her leading up to the race, helpers on the day, and our members who made it such a success!
 
 **Results**:
 

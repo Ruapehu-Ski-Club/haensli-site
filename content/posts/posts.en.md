@@ -1,5 +1,5 @@
 +++
-title = '2022 Registration'
+title = '2023 Registration'
 slug = 'post'
 image = 'https://www.rsc.org.nz/static/haensli2021/haensli2021spon.JPG'
 date = "2021-08-31T00:00:00"

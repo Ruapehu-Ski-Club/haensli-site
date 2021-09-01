@@ -3,4 +3,4 @@
 ** Haensli Cup Website **
 
 Static site generator - Hugo
-Theme - massively
+Theme - [massively](https://themes.gohugo.io/themes/hugo-theme-massively/)

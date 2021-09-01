@@ -3,6 +3,7 @@ title: "2021 Results"
 date: 2021-09-01T09:28:39+12:00
 draft: false
 featured: true
+image: "https://www.rsc.org.nz/static/haensli2021/haensli2021spon.JPG"
 ---
 
 We were lucky to get to hold the 2021 Haensli Cup the weekend before New Zealand went into lockdown!

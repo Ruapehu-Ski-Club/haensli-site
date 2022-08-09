@@ -11,7 +11,7 @@ Registration for 2022 Haensli Cup is now Live!
 [Racer Registration](https://registration.haenslicup.org.nz).
 
 **Please Note**:
-- Cost of entry is $25 or ($20 for RSC Members)
+- Cost of entry is $30
 - The Race Entry Fee is payable on Race day when you collect your bib - cash, and internet banking are accepted (no credit cards or EFTPOS sorry).
 
 - Collect your bibs from Lorenz's Bar and Cafe from 8.30am on race day.

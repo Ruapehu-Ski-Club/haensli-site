@@ -2,7 +2,7 @@
 title: "2022 Registration"
 date: 2022-08-09T09:28:39+12:00
 draft: false
-featured: true
+featured: false
 image: "https://www.rsc.org.nz/images/Haensli_Cup_2022_spon.jpg"
 ---
 
